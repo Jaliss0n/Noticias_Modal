@@ -1,16 +1,14 @@
 # noticias_modal
 
-A new Flutter project.
+Aplicativo desenvolvido para teste tecnico.
 
-## Getting Started
+## Configurado apenas para Android e IOS.
 
-This project is a starting point for a Flutter application.
+O mesmo consiste em consumir dados de uma API, de um site Wordpress, e mostrar as postagens do site na tela.
 
-A few resources to get you started if this is your first Flutter project:
+## Como rodar o projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+basta clonar este repositorio, e executar o seguinte comando dentro da pasta do terminal "flutter run", estando com um dispositivo Mobile configurado ou um aparelho fisico disponivel.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Segue imagem do projeto.
+![image](https://user-images.githubusercontent.com/64872678/229259429-2a705d2d-3675-4ab1-b827-7f6943720550.png)
